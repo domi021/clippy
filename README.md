@@ -17,7 +17,7 @@ Features
 
 Installation
 
-    1Clone this repository to your local machine:
+    1 Clone this repository to your local machine:
     git clone https://github.com/domi021/clippy.git
     
     2. Open your browser (Chrome/Zen) and go to your extensions management page (e.g., `chrome://extensions/`).
