@@ -30,3 +30,7 @@ Installation
 * Click the **Clippy icon** in your browser toolbar to launch the interface.
 * Use the **Gear (⚙️) icon** to open the settings menu and adjust your theme colors.
 * Use the **Summary** button to scan the page for text.
+
+Contact
+
+Have a suggestion or found a bug? Feel free to open an Issue here on GitHub.
