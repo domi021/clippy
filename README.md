@@ -20,7 +20,7 @@ Installation
     1 Clone this repository to your local machine:
     git clone https://github.com/domi021/clippy.git
     
-    2. Open your browser (Chrome/Zen) and go to your extensions management page (e.g., `chrome://extensions/`).
+    2. Open your browser (Chrome/FireFox) and go to your extensions management page (e.g., `chrome://extensions/`).
 
     3. Enable **Developer mode** in the top-right corner.
      
