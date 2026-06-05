@@ -2,6 +2,8 @@
   "manifest_version": 3,
   "name": "Clippy",
   "version": "1.0.0",
-  "permissions": ["activeTab", "storage"],
-  "content_scripts": [ { "matches": ["<all_urls>"], "js": ["content.js"] } ]
+  "permissions": ["storage"],
+  "background": { "scripts": ["background.js"] },
+  "content_scripts": [{ "matches": ["<all_urls>"], "js": ["content.js"] }],
+  "browser_specific_settings": { "gecko": { "id": "clippy@domi.dev" } }
 }
